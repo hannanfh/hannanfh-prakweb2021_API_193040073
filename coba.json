@@ -1,0 +1,17 @@
+[
+  {
+    "nama": "Hannan Fakhrul Hakim",
+    "umut": 21,
+    "nrp": "193040073",
+    "lulus": true,
+    "hobby": [
+      "Beatbox",
+      "Gaming",
+      "Mendengarkan Musik"
+    ],
+    "pembimbing": {
+      "pembimbing1": "Sandhika Galih",
+      "pembimbing2": "Erik Doank"
+    }
+  }
+]
